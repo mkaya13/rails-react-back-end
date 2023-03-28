@@ -73,7 +73,7 @@ In order to run this project you need:
 
 Clone this repository by using the command line :
 
-- `git clone https://github.com/mkaya13/rails-react-one-app.git`
+- `git clone https://github.com/mkaya13/rails-react-back-end`
 
 ### Install
 
